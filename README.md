@@ -1,4 +1,4 @@
-"# tuna_time_series_IOTC" 
+# tuna_time_series_IOTC 
 
 IMPORTANT NOTE: The catches recorded in this spreadsheet are considered the best scientific estimates for all IOTC species.
 
