@@ -5,3 +5,5 @@ IMPORTANT NOTE: The catches recorded in this spreadsheet are considered the best
 Catch/Capture(t) = Catch in metric tons/Capture in tons
 Species	= Species English name
 Year = Year
+
+Data extend back to the 50s, when industrial longlining started in the Indian Ocean
